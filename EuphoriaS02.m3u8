@@ -1,0 +1,5 @@
+#EXTM3U
+ 
+#EXTINF:-1  group-title="Euphoria S02", EP01
+https://manifest-gcp-us-east1-vop1.cfcdn.mux.com/yN8ULpxSlWGDFRmDnXPYVGqIluv01BrgaSee7sTWUtxM7i89Joi6UQer8lPv00NajUZLLYTayJjPwi4A1bQPx29j7NksFosL2l/rendition.m3u8?cdn=cloudflare&expires=1683468240&rid=maNV024zuMd00Rryar01uF2lWrwqPsXy00dJxRk7plgetlM&skid=default&signature=NjQ1N2FmZDBfMDE2NWUxMGI2NTdjZGQwM2U1NjU2ZjkyNjlkODFlYmU4NGNkZWVjMGFjNjZiMTY1YjU1MmQzYWIxMDg2N2U3ZA==&vsid=Ns25g97pI3jaDKkHqjb00I2RLvPEC5Mh6sF3w4vYJIRBu1EpBanUz5FJuourxgGRO9PHOiTTxO1E
+#EXTVLCOPT:sub-file=https://raw.githubusercontent.com/studiodrive/Euphoria/main/Euphoria.US.S02E01.Trying.To.Get.To.Heaven.Before.They.Close.The.Door.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.srt
